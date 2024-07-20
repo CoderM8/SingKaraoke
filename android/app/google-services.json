@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686522691732",
+    "project_id": "sing-karaoke-c5ea5",
+    "storage_bucket": "sing-karaoke-c5ea5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686522691732:android:f5a41695bb27279ead4481",
+        "android_client_info": {
+          "package_name": "com.vocsy.ccsingkaraoke"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfg0ydaim_5aEijCaIcKe7sV0TccThxo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
